@@ -1,0 +1,19 @@
+{
+    "name": "cubic-bezier",
+    "version": "1.0.0",
+    "description": "Bezier Curve plugin taken from https://github.com/ftlabs/ftscroller for use in bower environments.",
+    "author": {
+        "name": "Bret Mette <bret.mette@rowdydesign.com>",
+        "url": "http://rowdydesign.com/"
+    },
+    "main": "./src/uncompressed/cubic-bezier.js",
+    "dependencies": {
+
+    },
+	"ignore": [],
+  	"license": "GNU 3.0",
+    "repository": {
+       "type": "git",
+       "url": "https://github.com/rowdydesign/cubic-bezier" 
+    } 
+}
